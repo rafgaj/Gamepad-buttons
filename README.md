@@ -5,7 +5,7 @@
 ![This is an image](/images/game_controllers.png)
 ![This is an image](/images/CP_HID_prop.png)
 
-The code was created for the needs of additional buttons mounted on the VR headset - HP Reverb G2 made according to the instructions.
+The code was created for the needs of additional buttons mounted on the VR headset - HP Reverb G2 made according to the [instructions](https://www.instructables.com/Additional-Buttons-for-VR-Headset-HP-Reverb-G2/).
 
 ## Pre-work with the microcontroller
 1. Installing CircuitPython on the microcontroller according the [instruction](https://wiki.seeedstudio.com/Seeeduino-XIAO-CircuitPython/).
