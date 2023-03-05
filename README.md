@@ -17,6 +17,7 @@ The code was created for the needs of additional buttons mounted on the VR heads
     - simpleio.mpy
 
     Unzip downloaded library file and copy required files onto the CIRCUITPY drive into the /lib directory.
+    >**Note**: The libraries are included in the release files but may be out of date. If you don't care about the latest versions, you can skip this step.
 
 ## Programming the microcontroller
 Copy the files: *boot.py*, *hid_gamepad.py* and *code.py* onto the CIRCUITPY directly. Reconnect device and should works.

@@ -2,3 +2,4 @@
 *.mpy
 lib/adafruit_bus_device/__init__.py
 .vscode/settings.json
+Gamepad-buttons.zip
