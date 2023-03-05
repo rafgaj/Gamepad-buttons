@@ -31,3 +31,4 @@ while True:
         else:
             gp.press_buttons(gamepad_button_num)
             print(" press", gamepad_button_num, end="")
+    time.sleep(0.2)  # sleep for debounce
