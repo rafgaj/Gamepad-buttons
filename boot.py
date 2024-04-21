@@ -37,3 +37,4 @@ gamepad = usb_hid.Device(
 )
 
 usb_hid.enable((gamepad,))
+usb_hid.set_interface_name("VR Headset Buttons")
